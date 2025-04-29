@@ -1,0 +1,7 @@
+# Kullanicilar
+KULLANICI 111
+KULLANICI 222
+
+# Arkadaslik Iliskileri
+ARKADAS 111 222
+ARKADAS 111 222
